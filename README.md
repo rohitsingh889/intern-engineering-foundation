@@ -2,6 +2,8 @@
 
 This repository contains my Day 2 – Git & Version Control assignment for the Project Nexelis Intern-to-Engineer Bootcamp.
 
+![Git and GitHub](https://miro.medium.com/v2/resize:fit:720/format:webp/1*qwFrTMnFkcd3U9rFKwwacw.png)
+
 ## Objective
 
 The objective of this project is to demonstrate basic Git and version-control practices, including feature branches, meaningful commits, pushing changes, testing, documentation, and Pull Requests.
