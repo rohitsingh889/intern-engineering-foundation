@@ -12,3 +12,4 @@ def test_profile_data():
 
 test_profile_data()
 #python3 -m tests.test_profile to run the test
+#pytest tests/test_profile.py
