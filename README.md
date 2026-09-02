@@ -57,7 +57,8 @@ feature/day2-profile
 The workflow followed was:
 
 ```text
-Clone → Branch → Add → Commit → Push → Pull Request → Code Review → Merge
+Clone → Branch → Checkout/Switch → Pull/Fetch → Add → Commit
+       → Pull/Fetch → Push → Pull Request → Code Review → Merge
 ```
 
 The repository demonstrates meaningful commits, feature-branch development, testing, documentation, and Git version-control practices.
