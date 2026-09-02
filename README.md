@@ -18,11 +18,12 @@ intern-engineering-foundation/
 │   └── git-workflow.md
 ├── src/
 │   ├── __init__.py
+│   ├── intern_class.py
 │   └── profile.py
 └── tests/
     ├── __init__.py
-    ├── test_profile.py
-    └── test_profile2.py
+    ├── test_intern_class.py
+    └── test_profile.py
 ```
 
 ## Application
